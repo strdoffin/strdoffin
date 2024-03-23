@@ -1,4 +1,4 @@
-<p style="font-size:40px; text-align:center">Hi 👋, I'm Yossawat Imjai🌏</p>
+<p style="font-size:40px;" align="center">Hi 👋, I'm Yossawat Imjai🌏</p>
 <p style="font-size:30px;" align="center">About Me👻</p>
 
 <p style="font-size:15px; margin:0px;">Junior Web Developer and Gamer👾</p>
