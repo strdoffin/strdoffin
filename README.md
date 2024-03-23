@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yossawat Imjai</h1>
-<h3 align="center">Student In Kjn School</h3>
+<p style="font-size:40px; text-align:center">Hi 👋, I'm Yossawat Imjai🌏</p>
+<p style="font-size:30px;" align="center">About Me👻</p>
+
+<p style="font-size:15px; margin:0px;">Junior Web Developer and Gamer👾</p>
+<p style="font-size:15px;margin:0px;">Student In Kjn School🏫</p>
+<p style="font-size:30px;">Goal🚀: Full-Stack Web Developer
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
