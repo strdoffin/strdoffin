@@ -2,7 +2,7 @@
 
 ## About Me👻
 - Junior Web Developer and Gamer👾
-- Student In Kjn School🏫
+- Student Grade6 In Kanjanapisek Witthayalai Nakornphathom School🏫
 
 ## Languages and Tools Learning:
 
