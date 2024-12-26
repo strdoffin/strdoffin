@@ -2,7 +2,7 @@
 
 ## About Me👻
 - Junior Web Developer and Gamer👾
-- Student Grade6 In Kanjanapisek Witthayalai Nakornphathom School🏫
+- Student Grade6 In Kanjanapisek Witthayalai Nakhonphathom School🏫
 
 ## Languages and Tools Learning:
 
